@@ -101,7 +101,6 @@ Redis的5种数据类型：string，hash，list，set，sorted set
 redis的使用场景
 redis的连接客户端：jedis，lettuce，redisson
 Spring和redis的集成，Springdata redis
-
 redis的高级功能
 redis的集群配置和高可用
 Hazelcast
@@ -113,8 +112,6 @@ Hazelcast
 消息模式和消息协议
 了解第一代JMS和Activemq
 了解第二代消息队列Kafka和rabbitmq
-了解第三代pulsar，还深入聊了消息模式、消息保障语义、事务、有序性等
-
 了解第三代pulsar，还深入聊了消息模式、消息保障语义、事务、有序性等
 
 ###### 自我总结
